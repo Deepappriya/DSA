@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Deepappriya/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Deepappriya/DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Deepappriya/DSA/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Deepappriya/DSA/tree/master/0056-merge-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Deepappriya/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Deepappriya/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Deepappriya/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Deepappriya/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Deepappriya/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Deepappriya/DSA/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -41,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Deepappriya/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Deepappriya/DSA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Deepappriya/DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Deepappriya/DSA/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepappriya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Deepappriya/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepappriya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Deepappriya/DSA/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |

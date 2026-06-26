@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepappriya/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Deepappriya/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Deepappriya/DSA/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/Deepappriya/DSA/tree/master/0441-arranging-coins) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Deepappriya/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepappriya/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Deepappriya/DSA/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Deepappriya/DSA/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
